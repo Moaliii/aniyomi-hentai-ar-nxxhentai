@@ -1,9 +1,9 @@
 {
-  "name": "NxxHentai",
+  "name": "animonice",
   "version": "1.0.0",
   "description": "مصدر فيديوهات هنتاي مترجمة من nxxhentai.com لـ Aniyomi",
   "language": "ar",
   "type": "anime",
-  "id": "nxxhentai",
+  "id": "animonice",
   "author": "OpenAI (بتنسيق مع المستخدم)"
 }
