@@ -1,4 +1,4 @@
-# NxxHentai Extension for Aniyomi
+# animon Extension for Aniyomi
 
 هذا مصدر فيديو لأنميات الهنتاي المترجمة من موقع [nxxhentai.com](https://nxxhentai.com)، مخصص لتطبيق Aniyomi.
 
